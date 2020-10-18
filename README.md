@@ -1,19 +1,21 @@
 # product-glossary
-https://productschool.com/product-glossary/
 
-__Author:__ Amir Shokri
+![product glossary logo](https://github.com/amirshnll/product-glossary/raw/master/product-glossary-logo.PNG)
 
-__Email:__ Amirsh.nll@gmail.com
+* __Author:__ Amir Shokri
 
-__Website:__ www.ashokri.com
+* __Email:__ Amirsh.nll@gmail.com
 
-__Updated time:__ September 2020
+* __Website:__ www.ashokri.com
 
-__Reference:__ https://productschool.com/product-glossary/
+* __Updated time:__ September 2020
 
-__Github repository:__ https://github.com/amirshnll/product-glossary
+* __Reference:__ https://productschool.com/product-glossary/
 
-__ __
+* __Github repository:__ https://github.com/amirshnll/product-glossary
+
+
+
 
 ## Book Index
 * A
